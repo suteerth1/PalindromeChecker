@@ -5,7 +5,7 @@ string norm(string);
 int main()
 	{
 	cout << "Begin program:"<< endl;
-	string in = "T";
+	string in = "";
 	cin >> in;
 	cout<< endl << Reverse(norm(in)) <<endl;
 	return 0;
